@@ -1,7 +1,7 @@
 data = " " #blank string
 
 while True:
-    line = input (">>>> ")
+    line = input (">>> ")
     data += line +' '
     if len (line)== 0:
         break
