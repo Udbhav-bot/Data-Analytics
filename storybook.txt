@@ -1,1 +1,1 @@
- & "C:/Users/Udbhav Dwivedi/miniconda3/python.exe" "d:/Data Analytics/Basics/story.py" My name is Udbhav I studied data analytics from digipodium My course is about to be completed very soon  
+ My name is Ud I am studying python From digipodium  
